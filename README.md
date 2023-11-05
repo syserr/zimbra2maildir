@@ -17,7 +17,7 @@ Inbox/0000001726-Fwd_ Login - Allen Caves - Equipment.eml
 So some index number + the subject line.  Cool, what could go wrong?  Well a subject line seems to be able to have anything!  The obvious are emojis and unicode characters.  The best was a subject with a \n newline character in it.  So, your file names have all that -- **I'd never seen a filename with a new line character in the middle of it.**  Shell scripts just don't like crazy file names, sure "real" languages could handle this a little better.  This was going to be a 1 evening sort of script that turned into a weekend -- that's why I'm sharing my work.
 
 ## Requirements
-The `rename` program that is popular on Linux distributions.  On Debian this is `file-rename` from the `rename` package, written by Larry Wall.  There is a similar rename out there, maybe a fork, that I didn't like as well.
+The `rename` program that is popular on Linux distributions.  On Debian this is `file-rename` from the `rename` package, written by Larry Wall.  There is a similar rename out there, maybe a fork, that I didn't like as well -- don't use it.
 
 ## Example
 ```
