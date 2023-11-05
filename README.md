@@ -4,7 +4,7 @@ Converts a Zimbra backup to maildir format
 ## Reason
 Since owners of Zimbra don't seem to want to play with the Open Source community, I decided I better not wait around an longer and just move off.  It was a good run, I think I ran Zimbra for over 10 years just for personal email -- friends and family.  Migration is needed.
 
-## Dragons
+## Dragon slaying
 Zimbras backup is generated with something like this on the Zimbra server:
 ```
 /opt/zimbra/bin/zmmailbox -z -t 0 -m "bob@example.com" getRestURL -u "https://m.example.com" "//?fmt=tgz" > bob.tgz
