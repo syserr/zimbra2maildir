@@ -2,7 +2,7 @@
 Converts a Zimbra backup to maildir format
 
 ## Reason
-Since owners of Zimbra don't seem to want to play with the Open Source community, I decided I better not wait around an longer and just move off.  It was a good run, I think I ran Zimbra for over 10 years just for personal email -- friends and family.  Migration is needed.
+I could not find a zimbra to maildir converter that worked for free.  "This can't be a hard problem."  A couple days went into the edge cases.
 
 ## Dragon slaying
 Zimbras backup is generated with something like this on the Zimbra server:
